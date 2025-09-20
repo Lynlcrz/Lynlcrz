@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-gif-url.gif" alt="Error animation" width="250"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Niel</h1>
 <h3 align="center">🎓 A passionate Computer Science student with a strong interest in Software Development. Always eager to learn and build!</h3>
 
