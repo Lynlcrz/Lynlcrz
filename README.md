@@ -1,4 +1,7 @@
-![Coding Work From Home GIF by Alliance](https://github.com/user-attachments/assets/e5f7c902-a926-4f80-9f56-43f699b22dc3)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5f7c902-a926-4f80-9f56-43f699b22dc3" alt="Coding Work From Home GIF by Alliance" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Niel</h1>
 <h3 align="center">A passionate Computer Science student with a strong interest in Software Development. Always eager to learn and build!</h3>
