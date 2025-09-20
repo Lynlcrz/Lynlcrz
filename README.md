@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niel</h1>
-<h3 align="center">🎓 A passionate Computer Science student with a strong interest in Software Development. Always eager to learn and build!</h3>
+<h3 align="center">A passionate Computer Science student with a strong interest in Software Development. Always eager to learn and build!</h3>
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,php,java,mysql,mongodb,firebase,git,arduino,figma,illustrator,photoshop,postman" />
@@ -57,11 +57,5 @@
 </p>
 
 ---
-
-### GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lynlcrz&theme=react-dark&hide_border=true" />
-</p>
 
 
