@@ -9,16 +9,14 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 💡 I love solving real-world problems with code  
-- 💻 Currently working on personal and open-source projects  
-- 🌱 Currently diving deeper into **Full-stack Development**, **Vue**, and **TypeScript**  
-- 🛠️ I enjoy designing with **Figma** and building with **React** or **Vue**  
-- ✉️ Reach me via email at: **lynielayaay.dev@gmail.com**
+### About Me
+- 💡 I love solving real-world problems with code
+- 🎸 I love music and playing guitar   
+- ✉️ Reach me via email at: **lynielcrz12@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://dev.to/nieldev" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
@@ -37,7 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lynlcrz&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -51,7 +49,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -61,26 +59,10 @@
 
 ---
 
-### 📈 GitHub Activity Graph
+### GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lynlcrz&theme=react-dark&hide_border=true" />
 </p>
 
----
-
-### 🚀 What I'm Currently Learning
-
-- 🔹 TypeScript & Advanced React  
-- 🔹 Full-stack development with Vue.js & Firebase  
-- 🔹 UI/UX best practices with Figma  
-- 🔹 APIs and backend integrations using PHP and MySQL
-
----
-
-### ❤️ Support My Work
-
-If you like what I do, consider giving a ⭐ to my repositories or just drop by and say hi!
-
----
 
