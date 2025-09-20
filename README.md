@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e5f7c902-a926-4f80-9f56-43f699b22dc3" alt="Coding Work From Home GIF by Alliance" />
+  <img src="https://github.com/user-attachments/assets/e5f7c902-a926-4f80-9f56-43f699b22dc3" alt="Coding Work From Home GIF by Alliance"   width="300" />
 </p>
 
 
