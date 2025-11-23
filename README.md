@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e9b2cd47-a58e-4783-9db5-0e02130a12c1" alt="Coding Work From Home GIF by Alliance"   width="300" />
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Niel</h1>
 <h3 align="center">A passionate Computer Science student with a strong interest in Software Development. Always eager to learn and build!</h3>
