@@ -1,8 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Niel</h1>
-<h3 align="center">A passionate Computer Science student with a strong interest in Software Development. Always eager to learn and build!</h3>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lynlcrz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
