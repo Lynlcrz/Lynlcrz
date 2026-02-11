@@ -27,7 +27,7 @@
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,php,java,mysql,mongodb,firebase,git,arduino,figma,illustrator,photoshop,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,php,java,mysql,firebase,git,arduino,figma,illustrator,photoshop,postman" />
 </p>
 
 ---
