@@ -29,25 +29,8 @@
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lynlcrz&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynlcrz&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=lynlcrz&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lynlcrz&theme=algolia&no-bg=true" />
-  </a>
 </p>
 
 ---
