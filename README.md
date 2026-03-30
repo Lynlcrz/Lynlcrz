@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi, I'm Niel</h1>
 
+---
+
 ### About Me
 - 💡 I love solving real-world problems with code
 - 🎸 I love music and playing guitar   
