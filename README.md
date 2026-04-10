@@ -19,11 +19,10 @@
 const niel = {
   name:       "Lyniel Cris Aya-ay",
   alias:      "Niel",
-  location:   "Caloocan, Metro Manila, PH 🇵🇭",
+  location:   "Caloocan, Metro Manila, 🇵🇭",
   role:       "Full-Stack Developer",
-  passions:   ["Building real-world solutions", "Clean code", "Guitar riffs 🎸"],
-  currentFocus: "Crafting meaningful web experiences",
-  funFact:    "I debug code the same way I learn songs — one line at a time 🎵",
+  passions:   ["Building real-world solutions", "Clean code", "Guitar riffs"],
+  funFact:    "I debug code the same way I learn songs — one line at a time",
 };
 ```
 
@@ -40,31 +39,21 @@ const niel = {
 </details>
 
 ---
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lyniel-cris-aya-ay-201850305/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lyniel.ayaay)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/aya-aylyniel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lynielcrz12@gmail.com)
-
+</div>
 
 ---
-
+<div align="center">
 ### Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,php,java,mysql,firebase,git,arduino,figma,python,postman" />
 </p>
-
+</div>
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lynlcrz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynlcrz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=lynlcrz&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 
@@ -76,7 +65,5 @@ const niel = {
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-**Thanks for visiting! Let's build something awesome together. 🚀**
 
 </div>
