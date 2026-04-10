@@ -58,7 +58,7 @@ const niel = {
 
 </div>
 ---
-
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=lynlcrz&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
 
 </div>
