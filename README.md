@@ -54,21 +54,9 @@ const niel = {
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
-</p>
-
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=php,java,mysql,firebase,python" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,figma,arduino,postman" />
+### Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,php,java,mysql,firebase,git,arduino,figma,python,postman" />
 </p>
 
 ---
@@ -87,27 +75,6 @@ const niel = {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lynlcrz&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-> *"Music gives a soul to the universe, wings to the mind, flight to the imagination, and life to everything."* — Plato
-
-🎸 When I'm not writing code, I'm playing guitar or hunting for my next favorite song.
-
-</div>
 
 ---
 
