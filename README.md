@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```ts
 const niel = {
@@ -26,7 +26,7 @@ const niel = {
 ```
 
 <details>
-<summary>📖 <strong>A bit more about me...</strong></summary>
+<summary><strong>A bit more about me...</strong></summary>
 <br/>
 
 - 💡 I love solving real-world problems with code
