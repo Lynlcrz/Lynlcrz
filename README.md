@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Eat;Sleep;Code;Guitar;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/lynlcrz?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/lynlcrz?tab=followers)
-
 </div>
 
 ---
