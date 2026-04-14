@@ -36,7 +36,7 @@ const niel = {
   
 ### Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,php,java,mysql,firebase,git,arduino,figma,python,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,php,java,mysql,firebase,git,arduino,figma,python,postman" />
 </p>
 
 </div>
