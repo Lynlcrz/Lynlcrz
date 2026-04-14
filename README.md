@@ -21,18 +21,6 @@ const niel = {
 };
 ```
 
-<details>
-<summary><strong>A bit more about me...</strong></summary>
-<br/>
-
-- 💡 I love solving real-world problems with code
-- 🎸 Music is my second language
-- 🌱 Constantly leveling up my skills and exploring new technologies
-- 🤝 Open to collaborations on meaningful projects
-- ✉️ Best way to reach me: **lynielcrz12@gmail.com**
-
-</details>
-
 ---
 <div align="center">
  
